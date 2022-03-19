@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: palevioletred;
+}
+h1{
+    font-family: 'Special Elite', cursive;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+
+span{
+    color: blue;
+}
+
+h4{
+    font-family: 'Special Elite', cursive;
+    font-size: 16px;
+}
